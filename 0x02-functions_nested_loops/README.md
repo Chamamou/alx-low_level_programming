@@ -18,3 +18,6 @@ Write a function that prints the sign of a number.
 
 6-abs.c
 Write a function that computes the absolute value of an integer.
+
+7-print_last_digit.c
+Write a function that prints the last digit of a number.
