@@ -29,4 +29,7 @@ Write a function that prints every minute of the day of Jack Bauer, starting fro
 Write a function that prints the 9 times table, starting with 0.
 
 10-add.c
-Write a function that adds two integers and returns the result.
+Write a function that adds two integers and returns the result
+
+11-print_to_98.c
+Write a function that prints all natural numbers from n to 98, followed by a new line.
