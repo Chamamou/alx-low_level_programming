@@ -8,7 +8,6 @@ Returns a pointer to the resulting string dest
 1. strncat
 mandatory
 Write a function that concatenates two strings.
-
 Prototype: char *_strncat(char *dest, char *src, int n);
 The _strncat function is similar to the _strcat function, except that
 it will use at most n bytes from src; and
@@ -26,3 +25,9 @@ mandatory
 Write a function that compares two strings.
 Prototype: int _strcmp(char *s1, char *s2);
 Your function should work exactly like strcmp
+
+4. I am a kind of paranoid in reverse. I suspect people of plotting to make me happy
+mandatory
+Write a function that reverses the content of an array of integers.
+Prototype: void reverse_array(int *a, int n);
+Where n is the number of elements of the array
