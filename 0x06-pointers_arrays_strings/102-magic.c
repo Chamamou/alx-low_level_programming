@@ -3,7 +3,6 @@
  * main - prints a[2] = 98
  * Return: 0 (OK)
  */
-
 int main(void)
 {
 int n;
