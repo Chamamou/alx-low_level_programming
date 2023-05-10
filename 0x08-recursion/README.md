@@ -25,3 +25,7 @@ If y is lower than 0, the function should return -1
 Write a function that returns the natural square root of a number.
 Prototype: int _sqrt_recursion(int n);
 If n does not have a natural square root, the function should return -1
+
+6. Inception. Is it possible?
+Write a function that returns 1 if the input integer is a prime number, otherwise return 0.
+Prototype: int is_prime_number(int n);
